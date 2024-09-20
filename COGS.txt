@@ -1,0 +1,6 @@
+modules.character
+modules.errorhandler
+modules.listeners
+modules.remind
+modules.utilities
+jishaku
